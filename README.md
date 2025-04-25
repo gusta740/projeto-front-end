@@ -1,1 +1,2 @@
 # projeto-front-end
+criei um site ensinan de receita ensinan a como fazer uma picanha perfeita em 5 passos, nele mostra o passo a passo para fazer com tecnicas de preparo, receitas completas e tempos de cozimento e preparo.
